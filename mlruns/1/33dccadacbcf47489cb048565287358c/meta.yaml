@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/33dccadacbcf47489cb048565287358c/artifacts
+end_time: 1660131966636
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 33dccadacbcf47489cb048565287358c
+run_uuid: 33dccadacbcf47489cb048565287358c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660131961094
+status: 3
+tags: []
+user_id: shuklanish
