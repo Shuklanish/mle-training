@@ -1,0 +1,27 @@
+Fetched housing data.
+Dataset stored at /mnt/d/Tiger-Assignments/mle-training/data/raw/housing.
+Loaded housing data.
+Preprocessing housing data...
+Preprocessed train and test datasets stored at /mnt/d/Tiger-Assignments/mle-training/data/processed.
+Loaded training data
+Training completed
+Models stored at /mnt/d/Tiger-Assignments/mle-training/artifacts.
+Loaded test data
+Loaded Models
+lin_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+tree_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+forest_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+grid_search_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+Fetched housing data.
+Dataset stored at /mnt/d/Tiger-Assignments/mle-training/data/raw/housing.
+Loaded housing data.
+Preprocessing housing data...
+Preprocessed train and test datasets stored at /mnt/d/Tiger-Assignments/mle-training/data/processed.
+Loaded training data
+Training completed
+Loaded test data
+Loaded Models
+lin_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+tree_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+forest_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
+grid_search_model=[49237.94888033527, 4477835762.283676, 66916.6329269762]
