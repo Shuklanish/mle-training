@@ -8,8 +8,8 @@ The following techniques have been used:
  - Decision Tree
  - Random Forest
  
-## Installation:
-# Prerequisites:
+# Installation:
+## Prerequisites:
 Prerequisite dependencies can be downloaded from yml file. To setup the conda environment:
 
 $ conda env create --file path_to_yml.yml
@@ -25,11 +25,11 @@ $ conda activate mle-dev
 
 
 ## To excute the script
-# To download and process data:
+### To download and process data:
 $ python src/housing/ingest_data.py
 
-To train the models:
+### To train the models:
 $ python src/housing/train.py
 
-To score trained models:
+### To score trained models:
 $ python src/housing/score.py
